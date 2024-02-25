@@ -1,0 +1,6 @@
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\Generics\obj\Debug\net8.0\Generics.csproj.AssemblyReference.cache

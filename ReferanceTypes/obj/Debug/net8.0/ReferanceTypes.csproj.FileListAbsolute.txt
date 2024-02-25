@@ -1,0 +1,15 @@
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\bin\Debug\net8.0\ReferanceTypes.exe
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\bin\Debug\net8.0\ReferanceTypes.deps.json
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\bin\Debug\net8.0\ReferanceTypes.runtimeconfig.json
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\bin\Debug\net8.0\ReferanceTypes.dll
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\bin\Debug\net8.0\ReferanceTypes.pdb
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.AssemblyInfoInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.AssemblyInfo.cs
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.sourcelink.json
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.dll
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\refint\ReferanceTypes.dll
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.pdb
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ReferanceTypes.genruntimeconfig.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\ReferanceTypes\obj\Debug\net8.0\ref\ReferanceTypes.dll

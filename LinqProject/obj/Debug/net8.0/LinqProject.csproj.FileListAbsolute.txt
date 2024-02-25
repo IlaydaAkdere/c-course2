@@ -1,0 +1,5 @@
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfoInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.AssemblyInfo.cs
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\LinqProject\obj\Debug\net8.0\LinqProject.sourcelink.json

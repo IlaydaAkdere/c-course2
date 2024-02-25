@@ -1,0 +1,4 @@
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\TheradingDemo1\obj\Debug\TheradingDemo1.csproj.AssemblyReference.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\TheradingDemo1\obj\Debug\TheradingDemo1.Properties.Resources.resources
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\TheradingDemo1\obj\Debug\TheradingDemo1.csproj.GenerateResource.cache
+C:\Users\casper\OneDrive\Masaüstü\c#course\CSharpCourse\TheradingDemo1\obj\Debug\TheradingDemo1.csproj.CoreCompileInputs.cache
